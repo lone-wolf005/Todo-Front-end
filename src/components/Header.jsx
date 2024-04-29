@@ -32,7 +32,7 @@ function Header() {
   return (
     <nav className='nav'>
         <div className="logo">
-          <img src="public/image.png" width={40} height={30} alt="" />
+          Todo APP
         </div>
         <div className="right">
             <Link className='remove' to={'/'}>Home</Link>
